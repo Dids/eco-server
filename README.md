@@ -1,5 +1,7 @@
 # Eco Game Server Docker Image
 
+*Show your support for this project by signing up for a [free Bitrise account!](https://app.bitrise.io?referrer=02c20c56fa07adcb)*
+
 ## How to use
 
 ```
